@@ -1,11 +1,20 @@
-auto: true
+# auto: true
 
-markdown: rdiscount
-pygments: true
-paginate: 8
+# Conversion
+markdown: kramdown
+#  redcarpet
+# pygments: true
+highlighter: pygments
+
+# Outputting
+# paginate: 8
 permalink: /:title
+
 
 title: benpannj.github.io
 url: http://benpannj.github.io
 feed: /atom.xml
 author_info: <a href="http://benpannj.github.io/">Ben Pan</a>
+
+# Serving
+port:    4000
