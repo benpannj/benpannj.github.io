@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ben Pan</title>
+    <link>http://benpannj.github.io/categories/</link>
+    <description>Recent content in Categories on Ben Pan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/benpannj&#34;&gt;BenPan&lt;/a&gt; 2017</copyright>
+    
+	<atom:link href="http://benpannj.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>http://benpannj.github.io/categories/development/</link>
+      <pubDate>Wed, 31 Jan 2018 12:46:21 +0800</pubDate>
+      
+      <guid>http://benpannj.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finacial</title>
+      <link>http://benpannj.github.io/categories/finacial/</link>
+      <pubDate>Wed, 31 Jan 2018 12:46:21 +0800</pubDate>
+      
+      <guid>http://benpannj.github.io/categories/finacial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

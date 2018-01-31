@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ben Pan</title>
+    <link>http://benpannj.github.io/posts/</link>
+    <description>Recent content in Posts on Ben Pan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/benpannj&#34;&gt;BenPan&lt;/a&gt; 2017</copyright>
+    <lastBuildDate>Wed, 31 Jan 2018 13:49:31 +0800</lastBuildDate>
+    
+	<atom:link href="http://benpannj.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://benpannj.github.io/posts/hugo/</link>
+      <pubDate>Wed, 31 Jan 2018 13:49:31 +0800</pubDate>
+      
+      <guid>http://benpannj.github.io/posts/hugo/</guid>
+      <description>hugo new site benblog hugo new posts/hugo.md hugo server  </description>
+    </item>
+    
+    <item>
+      <title>Corda</title>
+      <link>http://benpannj.github.io/posts/corda/</link>
+      <pubDate>Wed, 31 Jan 2018 12:46:21 +0800</pubDate>
+      
+      <guid>http://benpannj.github.io/posts/corda/</guid>
+      <description> Corda is a project from R3
+Corda public void test(){ int i; }  </description>
+    </item>
+    
+    <item>
+      <title>R3</title>
+      <link>http://benpannj.github.io/posts/r3/</link>
+      <pubDate>Wed, 31 Jan 2018 12:40:48 +0800</pubDate>
+      
+      <guid>http://benpannj.github.io/posts/r3/</guid>
+      <description> THis is test R3 </description>
+    </item>
+    
+    <item>
+      <title>LFS171x</title>
+      <link>http://benpannj.github.io/posts/lfs171x/</link>
+      <pubDate>Wed, 31 Jan 2018 10:41:48 +0800</pubDate>
+      
+      <guid>http://benpannj.github.io/posts/lfs171x/</guid>
+      <description> From edX: LFS171x
+Blockchain for Business - An Introduction to Hyperledger Technologies </description>
+    </item>
+    
+  </channel>
+</rss>
